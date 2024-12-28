@@ -1,8 +1,8 @@
 body{
     margin: 0;
     /* background: linear-gradient(#95145b,#ed8dcd); */
-    background-color: #f78da7;
-    font-family: "Open Sans", sans-serif;
+    background-color: #fff5ef;
+    font-family: "Vollkorn", serif;
     font-size: 15px;
     /* line-height: 40px; */
 }
@@ -16,8 +16,9 @@ header{
 }
 
 header h1{
-    color: white;
+    color: #fcba93;
     font-family: "Pathway Gothic One", serif;
+    text-decoration: underline;
     /* font-family: "Anton", sans-serif; */
     font-size: 90px;
     font-weight: 500;
@@ -32,7 +33,7 @@ header h1{
 } */
 
 .icon {
-    color: white;
+    color: #fcba93;
     font-size: 45px;
     text-decoration: none;
     padding: 0;
@@ -40,7 +41,7 @@ header h1{
 }
 
 .icon:hover {
-    color: #d06b8e;
+    color: #000000;
 }
 
 /* Main styling: */
